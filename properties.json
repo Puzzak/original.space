@@ -1,0 +1,10 @@
+{
+    "name":"Sample",
+    "id":"id"
+	"tags":["tag1","tag2","tag3"],
+	"snippet":"snippet",
+	"files":{
+		"thumbnail":"th",
+		"template":"te"
+	}
+}
